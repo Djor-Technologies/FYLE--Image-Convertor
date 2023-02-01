@@ -58,3 +58,4 @@ Djor's website, or GitHub page.
 If you have a question, discover a bug, or wish to provide some feedback regarding
 this program, or any program under the FYLE project, feel free to contact us at:
 >> djortechnologies@gmail.com
+>> https://github.com/Djor-Technologies/FYLE--Image-Convertor
